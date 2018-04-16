@@ -6,6 +6,8 @@
 
 ## Key Map Config
 
+* Config file location: `~/.config/karabiner/karabiner.json`
+
 ### Profile: "Default profile"
 
 * `f5` -> Switch to profile `StrokeTyping`: `"shell_command": "'/Library/Application Support/org.pqrs/Karabiner-Elements/bin/karabiner_cli' --select-profile 'StrokeTyping'"`
